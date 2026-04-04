@@ -20,10 +20,11 @@ Bypassing Anti-Virus Software Using Timed Reactions
 This project is intended for students, developers, and security researchers who want to better understand how such systems work internally.
 
 **Features**
-🔴 Custom RedBug-themed GUI
-📁 File handling and processing simulation
-🔐 Demonstration of encryption techniques
-📚 Useful for cybersecurity learning and experimentation
+
+Custom RedBug-themed GUI
+File handling and processing simulation
+Demonstration of encryption techniques
+Useful for cybersecurity learning and experimentation
 AV-Bypassing
 
 ------    **Copyright © Ad3n1s. All rights reserved.**    ------------
