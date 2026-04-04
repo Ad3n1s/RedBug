@@ -29,6 +29,50 @@ RedBug is an educational ransomware simulation developed in C#. It is designed s
 **Copyright © Ad3n1s. All rights reserved.**
 
 ## IGNORE KEYWORDS
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 ransomware free
 free ransomware
