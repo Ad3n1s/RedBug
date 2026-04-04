@@ -3,7 +3,7 @@
 RedBug is an educational ransomware simulation developed in C#. It is designed strictly for research and learning purposes, focusing on understanding the fundamentals of file encryption and user interface design in controlled environments.
 
 <p align="center">
-  <img src="assets/red.PNG" alt="Red Bug Logo" width="600">
+  <img src="assets/red.png" alt="Red Bug Logo" width="600">
 </p>
 
 
