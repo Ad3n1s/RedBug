@@ -7,7 +7,7 @@ RedBug is an educational ransomware simulation developed in C#. It is designed s
 </p>
 
 
-** - Overview - **
+**Overview**
 
 *RedBug* demonstrates how encryption-based threats may behave in a simplified and controlled manner. The project emphasizes:
 
@@ -19,7 +19,7 @@ Bypassing Anti-Virus Software Using Timed Reactions
 
 This project is intended for students, developers, and security researchers who want to better understand how such systems work internally.
 
-** - Features - **
+**Features**
 🔴 Custom RedBug-themed GUI
 📁 File handling and processing simulation
 🔐 Demonstration of encryption techniques
